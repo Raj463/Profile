@@ -25,14 +25,33 @@ h3 {
 }
 
 .top-container {
-  background-color: #E4F9F5;
+  background-color: #EAF6F6;
   position: relative;
   padding-top: 100px;
 }
 
+hr{
+  border-top: 7px dotted #EAF6F6;
+  margin-bottom: 0px;
+    border-bottom-width: 0px;
+    width: 60px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+
+}
+
 .middle-container {}
 
-.bottom-container {}
+.bottom-container {
+  background-color: #66BFBF;
+    margin-bottom: 0px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+padding-top: 50px;
+}
+.copy-right{
+  color: #EAF6F6;
+}
 
 .top-cloud {
   position: absolute;
